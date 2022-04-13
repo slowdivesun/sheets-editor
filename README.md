@@ -1,6 +1,9 @@
 # sheets-editor
 
 ## Functionalities Implemented
+- Users can add new Name-Surname pairs to their spreadsheet
+- Users can enter names and get their corresponding surnames (might be more than one) in a list
+- If there are no surnames found, the screen will display `Nothing Found` 
 
 ## How to Test
 - Create a Google Cloud project by following these steps: https://developers.google.com/workspace/guides/create-project
